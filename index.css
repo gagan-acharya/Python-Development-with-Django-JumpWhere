@@ -1,0 +1,90 @@
+.container-nav{
+    background-color: rgb(130, 216, 130);
+    height: 60px;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.nav-head{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    line-height: 60px;
+    padding: 0 20px;
+}
+
+.nav-list{
+    list-style: none;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.nav-list-item{
+    display: inline-block;
+    line-height: 30px;
+    margin-right: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+}
+
+.para1 {
+    width: 70%;
+    text-align: justify;
+    margin: 10px 15% 10px 15%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.para2 {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.para-block-1 {
+    width: 25%;
+    margin: 10px 2% 10px 2%; 
+    background-color: rgb(205, 216, 216);
+    display: inline-block;
+    padding: 5px;
+}
+
+.para-block-2 {
+    width: 25%;
+    margin: 10px 2% 10px 2%;  
+    display: inline-block;
+    background-color: rgb(205, 216, 216);
+    padding: 5px;
+}
+
+.para-block-3 {
+    width: 25%;
+    margin: 10px 0 10px 2%; 
+    display: inline-block;
+    background-color: rgb(205, 216, 216);
+    padding: 5px;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+sbutton {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 2px;
+    height: 25px;
+}
+
